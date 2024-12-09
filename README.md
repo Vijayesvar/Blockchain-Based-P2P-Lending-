@@ -51,13 +51,6 @@ Ensure your Besu network is running with the following parameters:
 - **RPC Port**: `8545`
 - **Genesis File**: Includes account allocations for initial balances.
 
-### Metamask Configuration
-1. Add a new network in Metamask:
-   - **Network Name**: Custom Blockchain
-   - **RPC URL**: `http://<your-besu-node-ip>:8545`
-   - **Chain ID**: Match your Besu network configuration
-2. Import the private keys for testing accounts.
-
 ## Contracts
 - **LendingPlatform.sol**: Core logic for lending and borrowing.
 - **Loan.sol**: Manages individual loans.
