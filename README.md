@@ -1,4 +1,4 @@
-#P2P Lending Platform on Custom Blockchain
+# P2P Lending Platform on Custom Blockchain
 
 ## Overview
 The **P2P Lending Platform** is a decentralized financial application built on a custom blockchain implemented using **Hyperledger Besu** with IBFT 2.0 consensus. This platform enables users to lend and borrow tokens in a peer-to-peer manner, ensuring transparency, trust, and efficiency.
